@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\warea\\Documents\\stuff\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\warea\\Documents\\stuff\\My project\\assets\\resources\\script\\cutscene0_script.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\script\\cutscene0_script.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\warea\\Documents\\stuff\\My project\\assets\\scripts\\core\\inputdecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\inputdecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\warea\\Documents\\stuff\\My project\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\warea\\documents\\stuff\\my project\\assets\\scripts\\core\\cutscene0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\cutscene0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\warea\\Documents\\stuff\\My project\\assets\\resources\\script\\script.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\script\\script.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\warea\\Documents\\stuff\\My project\\assets\\scripts\\core\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\warea\\Documents\\stuff\\My project\\assets\\scripts\\core\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\warea\\Documents\\stuff\\My project\\assets\\scripts\\core\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cutScene0_script.txt",
+              "DocumentMoniker": "C:\\Users\\warea\\Documents\\stuff\\My project\\Assets\\Resources\\Script\\cutScene0_script.txt",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Script\\cutScene0_script.txt",
+              "ToolTip": "C:\\Users\\warea\\Documents\\stuff\\My project\\Assets\\Resources\\Script\\cutScene0_script.txt",
+              "RelativeToolTip": "Assets\\Resources\\Script\\cutScene0_script.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-17T23:28:18.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cutscene0.cs",
+              "DocumentMoniker": "C:\\Users\\warea\\Documents\\stuff\\My project\\Assets\\Scripts\\Core\\Cutscene0.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Cutscene0.cs",
+              "ToolTip": "C:\\Users\\warea\\Documents\\stuff\\My project\\Assets\\Scripts\\Core\\Cutscene0.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\Cutscene0.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T23:25:51.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputDecoder.cs",
+              "DocumentMoniker": "C:\\Users\\warea\\Documents\\stuff\\My project\\Assets\\Scripts\\Core\\InputDecoder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\InputDecoder.cs",
+              "ToolTip": "C:\\Users\\warea\\Documents\\stuff\\My project\\Assets\\Scripts\\Core\\InputDecoder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\InputDecoder.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAADgvzwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T04:25:59.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\warea\\Documents\\stuff\\My project\\Assets\\Scripts\\Core\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\DialogueManager.cs",
+              "ToolTip": "C:\\Users\\warea\\Documents\\stuff\\My project\\Assets\\Scripts\\Core\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\DialogueManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:21:40.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\warea\\Documents\\stuff\\My project\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\warea\\Documents\\stuff\\My project\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:43:03.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\warea\\Documents\\stuff\\My project\\Assets\\Scripts\\Core\\InputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\InputHandler.cs",
+              "ToolTip": "C:\\Users\\warea\\Documents\\stuff\\My project\\Assets\\Scripts\\Core\\InputHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\InputHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T05:03:16.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "test.cs",
+              "DocumentMoniker": "C:\\Users\\warea\\Documents\\stuff\\My project\\Assets\\Scripts\\Core\\test.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\test.cs",
+              "ToolTip": "C:\\Users\\warea\\Documents\\stuff\\My project\\Assets\\Scripts\\Core\\test.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\test.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T04:33:13.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "script.txt",
+              "DocumentMoniker": "C:\\Users\\warea\\Documents\\stuff\\My project\\Assets\\Resources\\Script\\script.txt",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Script\\script.txt",
+              "ToolTip": "C:\\Users\\warea\\Documents\\stuff\\My project\\Assets\\Resources\\Script\\script.txt",
+              "RelativeToolTip": "Assets\\Resources\\Script\\script.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-17T04:33:22.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
